@@ -1,11 +1,11 @@
 public class HomeWorkApp {
-	public static void main(String [] args) {
+	static void main(String [] args) {
 	printThreeWords();
 	checkSumSign();
 	printColor();
 	compareNumbers();
 	}
-	public static void printThreeWords() {
+	static void printThreeWords() {
 	System.out.println("Orange");
 	System.out.println("Banana");
 	System.out.println("Apple");
